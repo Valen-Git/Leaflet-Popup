@@ -17,7 +17,7 @@
 
 var marker = L.marker([53.5656, 9.9854])
   .addTo(mymap)
-  .bindPopup("<h2>Staats- und Universitätsbibliothek Hamburg</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac bibendum tortor, vitae semper sapien. </p> <img src='img/staatsbibliothek.jpg' alt='staatsbibliothek'>");
+  .bindPopup("<h2>Staats- und Universitätsbibliothek Hamburg</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac bibendum tortor, vitae semper sapien. </p> <img src='img/bibliothek.jpg' alt='staatsbibliothek'>");
 
 var marker = L.marker([53.5613, 9.9952])
   .addTo(mymap)
